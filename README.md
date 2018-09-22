@@ -22,6 +22,9 @@ This project is the problem solving code for the Question B of the graduate math
 
 zangzelin@gmail.com
 
+对应的博客有较详细的思路阐述:
+https://www.cnblogs.com/zangzelin/p/9689744.html 
+
 #2018年中国研究生数学建模竞赛B题
 光传送网建模与价值评估
 ## 1. 背景
